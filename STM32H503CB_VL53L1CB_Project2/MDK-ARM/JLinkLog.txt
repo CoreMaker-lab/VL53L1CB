@@ -1,0 +1,24 @@
+T305C 002:891.946   SEGGER J-Link V7.96h Log File
+T305C 002:892.043   DLL Compiled: May 15 2024 15:33:59
+T305C 002:892.048   Logging started @ 2024-11-30 14:37
+T305C 002:892.053   Process: C:\Keil_v5\UV4\UV4.exe
+T305C 002:892.060 - 2892.058ms
+T305C 002:892.067 JLINK_SetWarnOutHandler(...)
+T305C 002:892.072 - 0.005ms
+T305C 002:892.080 JLINK_OpenEx(...)
+T305C 002:894.555   
+  ***** Error: 
+T305C 002:894.571   Cannot connect to J-Link.
+T305C 002:894.668 - 2.585ms returns "Cannot connect to J-Link."
+T305C 002:894.815 
+  ***** Warning: 
+T305C 002:894.824 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T305C 002:894.832 JLINK_GetHardwareVersion()
+T305C 002:897.317   
+  ***** Error: 
+T305C 002:897.333   Cannot connect to J-Link.
+T305C 002:897.410 - 2.577ms
+T305C 003:968.340 JLINK_Close()
+T305C 003:968.447 - 0.106ms
+T305C 003:968.479   
+T305C 003:968.496   Closed
