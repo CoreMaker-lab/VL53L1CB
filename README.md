@@ -33,7 +33,7 @@
 
 
 # Project Introduction
-- **STM32H503CB_VL53L4CX_project1**:VL53L1CB TOF开发(1)----驱动TOF进行测距
+- **STM32H503CB_VL53L1CB_project1**:VL53L1CB TOF开发(1)----驱动TOF进行测距
 - **CSDN Blog**:[https://blog.csdn.net/qq_24312945/article/details/144161992](https://blog.csdn.net/qq_24312945/article/details/144161992)
 
 TOF（飞行时间）传感器是一种利用光的飞行时间原理来测量物体与传感器之间距离的技术。VL53L1 是一款高精度的TOF传感器，能够在不同环境光条件下，提供多目标检测和多区域扫描功能。通过驱动VL53L1传感器，可以实现对物体的快速、准确测距，最高测量距离可达800厘米。该传感器支持I2C接口，具备多种预设模式（如测距模式、多区域扫描模式、轻量测距模式和自主模式），适用于自动对焦、3D深度测量、存在检测等多种应用场景。
@@ -46,7 +46,7 @@ The TOF (Time-of-Flight) sensor is a technology that measures the distance betwe
 This article will introduce how to drive the VL53L1 sensor via the I2C interface to perform ranging operations. It will cover the steps of sensor initialization, mode configuration, and data reading, and provide relevant code examples to help developers quickly integrate and apply this sensor for ranging tasks.
 
 
-- **STM32H503CB_VL53L4CD_project2**:VL53L1CB小板开发(2)----修改测距范围及测量频率
+- **STM32H503CB_VL53L1CB_project2**:VL53L1CB小板开发(2)----修改测距范围及测量频率
 - **CSDN Blog**:[https://blog.csdn.net/qq_24312945/article/details/144162145](https://blog.csdn.net/qq_24312945/article/details/144162145)
 
 VL53L1CB传感器是一款高性能的飞行时间（Time-of-Flight）传感器，广泛应用于各种距离测量和目标检测场景。其灵活的配置选项使得用户可以根据具体应用需求调整测距范围和测量频率，从而实现最佳性能。本篇文章将介绍如何通过修改VL53L1CB传感器的测距范围和测量频率来满足不同应用场景的需求。
