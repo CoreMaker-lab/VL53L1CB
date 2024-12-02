@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25153237-88f1-4a06-8416-7c539b0d9ffe)# Overview
+# Overview
 - **Name**: VL53L1CB-V1.0
 - **MCU**: STM32H503CBT6
 - **IDE**: STM32CUBEMX+KEIL
